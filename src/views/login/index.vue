@@ -1,6 +1,7 @@
 <template>
   <div id="login">
     <h1>{{msg}}</h1>
+    <h1>{{msg}}</h1>
     <el-button @click="defclick">Default</el-button>
   </div>
 </template>
